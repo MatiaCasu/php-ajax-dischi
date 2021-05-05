@@ -20,11 +20,10 @@
     <div class="head">
       <img src="img/download.png" alt="">
     </div>
-    <!-- Stampa dischi con chiamata Axios in Vue -->
-    <?php include __DIR__ . '/main-vue-js.php'; ?>
-
-    <!-- Stampa dischi tramite Php -->
-    <?php //include __DIR__ . '/main-php.php'; ?>
+    <?php //include __DIR__ . '/main-vue-js.php'; ?>
+    <!-- /Stampa dischi con chiamata Axios in Vue -->
+    <?php include __DIR__ . '/main-php.php'; ?>
+    <!-- /Stampa dischi tramite Php -->
   </div>
   <script src="js/script.js"></script>
 </body>
